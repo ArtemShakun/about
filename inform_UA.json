@@ -1,0 +1,169 @@
+{
+  "aboutMe": "Я Frontend розробник і маю за плечима два роки комерційного досвіду.  Запалююсь від можливості писати код і у вільний від роботи час глибше вдаюсь у вивчення нових технологій. Моєю головною метою є створення ефективних та зручних за дизайном веб-додатків, а мої знання та досвід дозволяють мені досягати цієї мети. Я вірю у постійний розвиток та завжди готовий впроваджувати нові ідеї та технічні рішення в мою роботу.",
+  "subTitle": "Я спеціалізуюся на розробці фронтенду та створенні доступних та комплексних продуктів для підвищення якості цифрового досвіду в Інтернеті.",
+  "experience": [
+    {
+      "id": 1,
+      "company": "Astound Commerce",
+      "period": "Черв 2021 – Лют 2022",
+      "technology": ["Salesforce", "JavaScript", "JQuery", "Bootstrap"],
+      "linkCompany": "https://astoundcommerce.com/",
+      "project": [
+        {
+          "id": 1,
+          "title": "Hunkemöller - Німецький бренд нижньої білизни",
+          "description": "Працював над апдейтами поточного функціонала, та автоматизацією обробки замовлень.",
+          "link": "https://www.hunkemoller.com/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Limestone Digital",
+      "period": "Черв 2022 – Вер 2023",
+      "technology": [
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Material UI",
+        "Highcharts",
+        "JQuery"
+      ],
+      "linkCompany": "https://limestonedigital.com/",
+      "project": [
+        {
+          "id": 1,
+          "title": "Не маю права згадувати назву компанії в якій працював через NDA",
+          "description": "Я розробив аналітичний веб-сайт і працював над виправленням помилок і створенням нових діаграм, розробляв сторінки для міні-гри Team Challenge для американської компанії та перебудував веб-сайт, який був створений на нативному JS, з JQuery, на React, який використовував користувальницький фреймворк на основі Next.js",
+          "link": "https://limestonedigital.com/"
+        }
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Countries",
+      "description": "Даний проєкт надає інформацію про всі країни світу використовуючи сторонній API сервіс (https://restcountries.com/). Метою цього проєкту було вивчення роботи Redux та ReduxToolkit в React. Сама ідея була взята з вебсайту FrontendMentor. Створений у двох екземплярах написаний на Redux та переписаний на ReduxToolkit.",
+      "listDescription": [
+        {
+          "title": "Home page",
+          "list": [
+            "Перемикач з темної на світлу тему",
+            "Пошук який відпрацьовує при введені окремого символу",
+            "Фільтрація по материках",
+            "Карточки з даними про країну при натискані на карточку перехід на PageDetail."
+          ]
+        },
+        {
+          "title": "Details page",
+          "list": [
+            "Перемикач з темної на світлу тему",
+            "Блок з прапором країни",
+            "Детальна інформація про країну",
+            "Блок з назвами сусідніх країн. При натискані на назву змінюються дані на вибрану країну"
+          ]
+        }
+      ],
+      "technology": ["React", "Redux", "React router dom", "Axios", "css"],
+      "icon": "countries.png",
+      "titleLink": "Роботу даного проєкту можна подивитись за посиланням:",
+      "link": [
+        {
+          "name": "GitHub",
+          "SocLink": "https://github.com/ArtemShakun/redux"
+        },
+        {
+          "name": "YouTube",
+          "SocLink": "https://youtu.be/ny_5Z0gy8E8"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Карточки для пошуку вакансій",
+      "description": "Даний проєкт являє собою інформаційну дошку яка складається з карток відкритих вакансій. Метою цього міні проєкту було вивчення роботи Redux та ReduxToolkit в React. Сама ідея була взята з вебсайту FrontendMentor. Створений у двох екземплярах написаний на Redux та переписаний на ReduxToolkit.",
+      "listDescription": [
+        {
+          "title": "Home page",
+          "list": [
+            "Карточка яка містить логотип, інформацію про компанію та посаду, опис та лейбли з назвами технічних навичок",
+            "Та поле фільтрації по вибраному лейблу"
+          ]
+        }
+      ],
+
+      "technology": ["React", "Redux/ReduxToolkit", "css"],
+      "icon": "card-job.png",
+      "titleLink": "Роботу данного проєкту можно подивитись за посиланням:",
+      "link": [
+        {
+          "name": "GitHub",
+          "SocLink": "https://github.com/ArtemShakun/redux"
+        },
+        {
+          "name": "YouTube",
+          "SocLink": "https://youtu.be/iyWPLSeeuXA"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Пошук GitHub юзерів",
+      "description": "Даний проєкт використовуючи GitHub API надає функціонал з пошуку юзерів GitHub. Метою цього міні проєкта було вивчення роботи Typescript в React.",
+      "listDescription": [
+        {
+          "title": "Home page",
+          "list": [
+            "Карточка яка містить інформацію юзера.",
+            "Пошук юзерів за ім'ям."
+          ]
+        }
+      ],
+      "technology": ["React", "TypeScript", "Sass"],
+      "icon": "git-card.png",
+      "titleLink": "Роботу данного проєкту можно подивитись за посиланням:",
+      "link": [
+        {
+          "name": "GitHub",
+          "SocLink": "https://github.com/ArtemShakun/redux"
+        },
+        {
+          "name": "YouTube",
+          "SocLink": "https://www.youtube.com/watch?v=q4bLZen0Akc"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "HARD SKILLS",
+      "technologies": [
+        "JavaScript;",
+        "React;",
+        "Redux/ReduxTLK;",
+        "TypeScript."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EXPERIENCE WORK",
+      "technologies": [
+        "SalesForce;",
+        "JQuery;",
+        "The custom framework is based on Next.js;",
+        "Material UI;",
+        "Styled-component;",
+        "Figma;",
+        "Jira;",
+        "Confluence."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "LANGUAGES",
+      "technologies": ["English - Intermediate B1."]
+    }
+  ]
+}

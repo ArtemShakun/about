@@ -1,0 +1,169 @@
+{
+  "aboutMe": "I am a Frontend developer with two years of commercial experience. I am passionate about coding and, in my free time, I delve into learning new technologies. My main goal is to create efficient and aesthetically pleasing web applications, and my knowledge and experience enable me to achieve this goal. I believe in continuous improvement and am always ready to implement new ideas and technical solutions in my work.",
+  "subTitle": "I build accessible, inclusive products and digital experiences for the web.",
+  "experience": [
+    {
+      "id": 1,
+      "company": "Astound Commerce",
+      "period": "Jun 2021 – Feb 2022",
+      "technology": ["Salesforce", "JavaScript", "JQuery", "Bootstrap"],
+      "linkCompany": "https://astoundcommerce.com/",
+      "project": [
+        {
+          "id": 1,
+          "title": "Hunkemöller - German lingerie brand.",
+          "description": "I worked on updates of the current website functionality and checkout automatization. ",
+          "link": "https://www.hunkemoller.com/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Limestone Digital",
+      "period": "Jun 2022 – Sep 2023",
+      "technology": [
+        "JavaScript",
+        "React",
+        "Next.js",
+        "Material UI",
+        "Highcharts",
+        "JQuery"
+      ],
+      "linkCompany": "https://limestonedigital.com/",
+      "project": [
+        {
+          "id": 1,
+          "title": "I can't mention the company of the name due to the NDA",
+          "description": "I developed an analytic website and worked on fixing bugs and creating new charts, developed on pages for the mini-game Team Challenge for the American company and rebuilt the website that was created on the native JS, with JQuery, to React, which used the custom framework based on Next.js",
+          "link": "https://limestonedigital.com/"
+        }
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "Countries",
+      "description": "This project provides information about all countries of the world using a party API service (https://restcountries.com/). The aim of this project was to study the work of Redux and ReduxToolkit in React. The idea itself was taken from the FrontendMentor website. Created in two copies written in Redux and rewritten in ReduxToolkit.",
+      "listDescription": [
+        {
+          "title": "Home page",
+          "list": [
+            "Switcher from a dark to a light theme",
+            "Search",
+            "Filtration by continent",
+            "Cards with data about the country"
+          ]
+        },
+        {
+          "title": "Details page",
+          "list": [
+            "Switcher from a dark to a light theme",
+            "Block with country flag",
+            "Country details",
+            "Block with the names of neighboring countries"
+          ]
+        }
+      ],
+      "technology": ["React", "Redux", "React router dom", "Axios", "css"],
+      "icon": "countries.png",
+      "titleLink": "The work of this project can be viewed at the following link:",
+      "link": [
+        {
+          "name": "GitHub",
+          "SocLink": "https://github.com/ArtemShakun/redux"
+        },
+        {
+          "name": "YouTube",
+          "SocLink": "https://youtu.be/ny_5Z0gy8E8"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Cards for finding vacancies",
+      "description": "This project is an information board consisting of cards of open vacancies. The purpose of this mini project was to study the work of Redux and ReduxToolkit in React. The idea itself was taken from the FrontendMentor website. Created in two copies written in Redux and rewritten in ReduxToolkit.",
+      "listDescription": [
+        {
+          "title": "Home page",
+          "list": [
+            "The card that contains the logo, job title, description, and technical skill name labels",
+            "Filter cards by label"
+          ]
+        }
+      ],
+
+      "technology": ["React", "Redux/ReduxToolkit", "css"],
+      "icon": "card-job.png",
+      "titleLink": "The work of this project can be viewed at the following link:",
+      "link": [
+        {
+          "name": "GitHub",
+          "SocLink": "https://github.com/ArtemShakun/redux"
+        },
+        {
+          "name": "YouTube",
+          "SocLink": "https://youtu.be/iyWPLSeeuXA"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Finder of GitHub users",
+      "description": "Using the GitHub API, this project provides functionality for searching GitHub users. This mini project aimed to learn how Typescript works in React.",
+      "listDescription": [
+        {
+          "title": "Home page",
+          "list": [
+            "The card contains information about the GitHub user",
+            "Search users by name"
+          ]
+        }
+      ],
+      "technology": ["React", "TypeScript", "Sass"],
+      "icon": "git-card.png",
+      "titleLink": "The work of this project can be viewed at the following link:",
+      "link": [
+        {
+          "name": "GitHub",
+          "SocLink": "https://github.com/ArtemShakun/redux"
+        },
+        {
+          "name": "YouTube",
+          "SocLink": "https://youtu.be/q4bLZen0Akc"
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "HARD SKILLS",
+      "technologies": [
+        "JavaScript;",
+        "React;",
+        "Redux/ReduxTLK;",
+        "TypeScript."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "EXPERIENCE WORK",
+      "technologies": [
+        "SalesForce;",
+        "JQuery;",
+        "The custom framework is based on Next.js;",
+        "Material UI;",
+        "Styled-component;",
+        "Figma;",
+        "Jira;",
+        "Confluence."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "LANGUAGES",
+      "technologies": ["English - Intermediate B1."]
+    }
+  ]
+}
