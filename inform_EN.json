@@ -25,8 +25,8 @@
       "project": [
         {
           "id": 1,
-          "title": "I can't share project details due to NDA.",
-          "description": "I developed an analytic website and worked on fixing bugs and creating new charts, developed on pages for the mini-game Team Challenge for the American company and rebuilt the website that was created on the native JS, with JQuery, to React, which used the custom framework based on Next.js",
+          "title": "I can't share projects details due to NDA.",
+          "description": "I developed an analytical website and worked on fixing bugs and creating new charts; created pages for the mini-game Team Challenge; and rebuilt the website, which was developed on the native JS with JQuery, to React this service used the custom framework based on Next.js.",
           "link": "https://limestonedigital.com/"
         }
       ]
@@ -72,7 +72,7 @@
       ],
       "technology": ["React", "Redux", "React Router Dom", "Axios", "CSS"],
       "icon": "countries.png",
-      "titleLink": "The work of this project can be viewed at the following link:",
+      "titleLink": "Project details are available via the links:",
       "link": [
         {
           "name": "GitHub",
@@ -87,20 +87,20 @@
     {
       "id": 2,
       "title": "Cards for finding vacancies",
-      "description": "This project is an information board consisting of cards of open vacancies. The purpose of this mini project was to study the work of Redux and ReduxToolkit in React. The idea itself was taken from the FrontendMentor website. Created in two copies written in Redux and rewritten in ReduxToolkit.",
+      "description": "This project is an information board that consists of cards of open vacancies. With this pet project, I aimed to study the work of Redux and ReduxToolkit in React. The idea was taken from the FrontendMentor website. It has two copies written in Redux and rewritten in ReduxToolkit.",
       "listDescription": [
         {
           "title": "Home page",
           "list": [
-            "The card that contains the logo, job title, description, and technical skill name labels",
-            "Filter cards by label"
+            "Cards that contain the logo, job title, description, and labels for names of technical skills",
+            "Filtration by labels"
           ]
         }
       ],
 
       "technology": ["React", "Redux/ReduxToolkit", "css"],
       "icon": "./card-job.png",
-      "titleLink": "The work of this project can be viewed at the following link:",
+      "titleLink": "Project details are available via the links:",
       "link": [
         {
           "name": "GitHub",
@@ -115,19 +115,19 @@
     {
       "id": 3,
       "title": "Finder of GitHub users",
-      "description": "Using the GitHub API, this project provides functionality for searching GitHub users. This mini project aimed to learn how Typescript works in React.",
+      "description": "Using the GitHub API, this service provides functionality for searching GitHub users. With this pet project, I aimed to study how Typescript works in React.",
       "listDescription": [
         {
           "title": "Home page",
           "list": [
-            "The card contains information about the GitHub user",
-            "Search users by name"
+            "The card with information about the GitHub user",
+            "Search by user name"
           ]
         }
       ],
       "technology": ["React", "TypeScript", "Sass"],
       "icon": "git-card.png",
-      "titleLink": "The work of this project can be viewed at the following link:",
+      "titleLink": "Project details are available via the links:",
       "link": [
         {
           "name": "GitHub",
