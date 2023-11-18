@@ -139,42 +139,37 @@
     {
       "id": 1,
       "name": "ТЕХНІЧНІ НАВИКИ",
-      "technologies": [
-        "JavaScript;",
-        "React;",
-        "Redux/ReduxTLK;",
-        "TypeScript."
-      ]
+      "technologies": ["JavaScript", "React", "Redux/ReduxTLK", "TypeScript"]
     },
     {
       "id": 2,
       "name": "ІНСТРУМЕНТИ",
       "technologies": [
-        "Salesforce;",
-        "JQuery;",
-        "The custom framework is based on Next.js;",
-        "Material UI;",
-        "Styled-component;",
-        "Figma;",
-        "Jira;",
-        "Confluence."
+        "Salesforce",
+        "JQuery",
+        "Next.js",
+        "Material UI",
+        "Styled-component",
+        "Figma",
+        "Jira",
+        "Confluence"
       ]
     },
     {
       "id": 3,
       "name": "ОСОБИСТІ ЯКОСТІ",
       "technologies": [
-        "Комунікабельний;",
-        "Командний гравець;",
-        "Відповідальний;",
-        "Уважний до деталей;",
-        "Прагну постійно зростати;"
+        "Комунікабельний",
+        "Командний гравець",
+        "Відповідальний",
+        "Уважний до деталей",
+        "Прагну постійно зростати"
       ]
     },
     {
       "id": 4,
       "name": "МОВИ",
-      "technologies": ["English - Intermediate B1."]
+      "technologies": ["English - Intermediate B1"]
     }
   ]
 }

@@ -139,42 +139,37 @@
     {
       "id": 1,
       "name": "HARD SKILLS",
-      "technologies": [
-        "JavaScript;",
-        "React;",
-        "Redux/ReduxTLK;",
-        "TypeScript."
-      ]
+      "technologies": ["JavaScript", "React", "Redux/ReduxTLK", "TypeScript"]
     },
     {
       "id": 2,
       "name": "TOOLS",
       "technologies": [
-        "Salesforce;",
-        "JQuery;",
-        "The custom framework is based on Next.js;",
-        "Material UI;",
-        "Styled-component;",
-        "Figma;",
-        "Jira;",
-        "Confluence."
+        "Salesforce",
+        "JQuery",
+        "Next.js",
+        "Material UI",
+        "Styled-component",
+        "Figma",
+        "Jira",
+        "Confluence"
       ]
     },
     {
       "id": 3,
       "name": "SOFT SKILLS",
       "technologies": [
-        "Communicable;",
-        "Team Player;",
-        "Responsible;",
-        "Attentive to Details;",
-        "Striving for Knowledge;"
+        "Communicable",
+        "Team Player",
+        "Responsible",
+        "Attentive to Details",
+        "Striving for Knowledge"
       ]
     },
     {
       "id": 4,
       "name": "LANGUAGES",
-      "technologies": ["English - Intermediate B1."]
+      "technologies": ["English - Intermediate B1"]
     }
   ]
 }
