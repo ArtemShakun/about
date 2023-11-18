@@ -138,7 +138,7 @@
   "skills": [
     {
       "id": 1,
-      "name": "HARD SKILLS",
+      "name": "ТЕХНІЧНІ НАВИКИ",
       "technologies": [
         "JavaScript;",
         "React;",
@@ -148,9 +148,9 @@
     },
     {
       "id": 2,
-      "name": "EXPERIENCE WORK",
+      "name": "ІНСТРУМЕНТИ",
       "technologies": [
-        "SalesForce;",
+        "Salesforce;",
         "JQuery;",
         "The custom framework is based on Next.js;",
         "Material UI;",
@@ -162,7 +162,18 @@
     },
     {
       "id": 3,
-      "name": "LANGUAGES",
+      "name": "ОСОБИСТІ ЯКОСТІ",
+      "technologies": [
+        "Комунікабельний;",
+        "Командний гравець;",
+        "Відповідальний;",
+        "Уважний до деталей;",
+        "Прагну постійно зростати;"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "МОВИ",
       "technologies": ["English - Intermediate B1."]
     }
   ]

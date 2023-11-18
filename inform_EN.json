@@ -148,9 +148,9 @@
     },
     {
       "id": 2,
-      "name": "EXPERIENCE WORK",
+      "name": "TOOLS",
       "technologies": [
-        "SalesForce;",
+        "Salesforce;",
         "JQuery;",
         "The custom framework is based on Next.js;",
         "Material UI;",
@@ -162,6 +162,17 @@
     },
     {
       "id": 3,
+      "name": "SOFT SKILLS",
+      "technologies": [
+        "Communicable;",
+        "Team Player;",
+        "Responsible;",
+        "Attentive to Details;",
+        "Striving for Knowledge;"
+      ]
+    },
+    {
+      "id": 4,
       "name": "LANGUAGES",
       "technologies": ["English - Intermediate B1."]
     }
