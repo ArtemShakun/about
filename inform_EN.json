@@ -94,7 +94,7 @@
       ],
 
       "technology": ["React", "Redux/ReduxToolkit", "css"],
-      "icon": "card-job.png",
+      "icon": "./card-job.png",
       "titleLink": "The work of this project can be viewed at the following link:",
       "link": [
         {
@@ -103,7 +103,7 @@
         },
         {
           "name": "YouTube",
-          "SocLink": "https://youtu.be/iyWPLSeeuXA"
+          "SocLink": "https://youtu.be/kqR4UopxgpQ"
         }
       ]
     },
