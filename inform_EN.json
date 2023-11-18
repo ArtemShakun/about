@@ -1,4 +1,11 @@
 {
+  "navigation": [
+    { "title": "ABOUT" },
+    { "title": "EXPERIENCE" },
+    { "title": "PROJECTS" },
+    { "title": "SKILLS" }
+  ],
+  "name": "Artem Shakun",
   "aboutMe": "I am a Frontend developer with two years of commercial experience. I am passionate about coding and, in my free time, I delve into learning new technologies. My main goal is to create efficient and aesthetically pleasing web applications, and my knowledge and experience enable me to achieve this goal. I believe in continuous improvement and am always ready to implement new ideas and technical solutions in my work.",
   "subTitle": "I build accessible, inclusive products and digital experiences for the web.",
   "experience": [
