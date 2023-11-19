@@ -97,7 +97,7 @@
         }
       ],
 
-      "technology": ["React", "Redux/ReduxToolkit", "css"],
+      "technology": ["React", "Redux/ReduxToolkit", "CSS"],
       "icon": "card-job.png",
       "titleLink": "Деталі проекту доступні за посиланнями:",
       "link": [

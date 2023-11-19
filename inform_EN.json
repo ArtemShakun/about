@@ -98,7 +98,7 @@
         }
       ],
 
-      "technology": ["React", "Redux/ReduxToolkit", "css"],
+      "technology": ["React", "Redux/ReduxToolkit", "CSS"],
       "icon": "./card-job.png",
       "titleLink": "Project details are available via the links:",
       "link": [
