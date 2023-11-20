@@ -73,6 +73,7 @@
       "technology": ["React", "Redux", "React Router Dom", "Axios", "CSS"],
       "icon": "countries.png",
       "titleLink": "Project details are available via the links:",
+      "textLink": "Visit the website",
       "link": [
         {
           "name": "GitHub",
@@ -101,6 +102,7 @@
       "technology": ["React", "Redux/ReduxToolkit", "CSS"],
       "icon": "./card-job.png",
       "titleLink": "Project details are available via the links:",
+      "textLink": "Visit the website",
       "link": [
         {
           "name": "GitHub",
@@ -128,6 +130,7 @@
       "technology": ["React", "TypeScript", "Sass"],
       "icon": "git-card.png",
       "titleLink": "Project details are available via the links:",
+      "textLink": "Visit the website",
       "link": [
         {
           "name": "GitHub",
